@@ -1,0 +1,3 @@
+A clustering has been performed of a large, representative set of two-dimensional strip packing benchmark instances from various repositories in the literature into different classes of test problems based on their underlying features. 
+Attached to file are documents containing a brief description of the characteristics of these clustered benchmarks. Lists of benchmarks in each cluster are also provided in a separate file. 
+Finally, text files containing all the benchmark instances are provided.
